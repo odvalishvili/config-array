@@ -11,12 +11,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/humanwhocodes/config-array.git"
+    "url": "git+https://github.com/odvalishvili/config-array.git"
   },
   "bugs": {
-    "url": "https://github.com/humanwhocodes/config-array/issues"
+    "url": "https://github.com/odvalishvili/config-array/issues"
   },
-  "homepage": "https://github.com/humanwhocodes/config-array#readme",
+  "homepage": "https://github.com/odvalishvili/config-array#readme",
   "scripts": {
     "build": "rollup -c",
     "format": "nitpik",
